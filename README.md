@@ -5,7 +5,7 @@
 
 [![Linkedin: jerryjrxie](https://img.shields.io/badge/-jerryjrxie-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jerryjrxie/)](https://www.linkedin.com/in/jerryjrxie/)
 [![GitHub jerryjrxie](https://img.shields.io/github/followers/jerryjrxie?label=follow&style=social)](https://github.com/jerryjrxie)
-
+[![Visits Badge](https://badges.pufler.dev/visits/jerryjrxie/jerryjrxie)](https://badges.pufler.dev)
 
 ### Just some fun facts about me...  <img src="https://media.giphy.com/media/1zi2PKrEjKaHgCqraa/giphy.gif" width="50"> 
 
