@@ -1,6 +1,6 @@
 <h2> Hi, I'm Jerry Xie! <img src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="230">
-<p><em>CS Undergrad @ <a href="https://cs.uwaterloo.ca/">University of Waterloo</a><img src="https://media.giphy.com/media/JO4lo82apdtaltBhEN/giphy.gif" width="30"></br>SWE Intern @ <a href="https://aws.amazon.com/">Amazon</a><img src="https://media.giphy.com/media/EQ53VWK9kot0pNUnMi/giphy.gif" width="30"> 
+<p><em>CS Undergrad @ <a href="https://cs.uwaterloo.ca/">University of Waterloo</a><img src="https://media.giphy.com/media/JO4lo82apdtaltBhEN/giphy.gif" width="30"></br>SWE Intern @ <a href="https://scale.com/">Scale AI  </a><img src="https://scale.com/_next/image?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252Fe0438815ba51486bbb6a202747122d4b%252Fe71732b630444886a069211834d408de&w=256&q=75" width="17"> 
 </em></p>
 
 [![Linkedin: jerryjrxie](https://img.shields.io/badge/-jerryjrxie-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jerryjrxie/)](https://www.linkedin.com/in/jerryjrxie/)
@@ -12,7 +12,7 @@
 ```javascript
 let jerry = {
   pronouns: "he" | "him",
-  code: [Java, C/C++, Python, Kotlin, Javascript],
+  code: [Python, Java, C/C++, Kotlin, Typescript],
   tools: [Spring Boot, Express, React, Kubernetes, Kafka, MongoDB],
   
   energy: "chillin",
