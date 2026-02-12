@@ -23,3 +23,5 @@ let jerry = {
  <em><b>I'm open chatting to anytime about anything :). Just shoot me a message on the socials or the old fashioned email:</b></em> <a href="mailto:jerryjrxie@gmail.com">jerryjrxie@gmail.com</a><img src="https://media.giphy.com/media/Q5pH4UmOiQciITstXU/giphy.gif" width="60">
 
 ---
+
+openboot.dev/jx
