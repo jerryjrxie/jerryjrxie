@@ -1,6 +1,6 @@
 <h2> Hi, I'm Jerry Xie! <img src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="230">
-<p><em>CS Alumni @ <a href="https://cs.uwaterloo.ca/">University of Waterloo</a><img src="https://media.giphy.com/media/JO4lo82apdtaltBhEN/giphy.gif" width="30"></br>SWE @ <a href="https://caldera.xyz/">Caldera</a><img src="https://dashboard.caldera.xyz/svgs/caldera_black.svg" width="17"> 
+<p><em>CS Alumni @ <a href="https://cs.uwaterloo.ca/">University of Waterloo</a><img src="https://media.giphy.com/media/JO4lo82apdtaltBhEN/giphy.gif" width="30"></br>
 </em></p>
 
 [![Linkedin: jerryjrxie](https://img.shields.io/badge/-jerryjrxie-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jerryjrxie/)](https://www.linkedin.com/in/jerryjrxie/)
@@ -12,11 +12,9 @@
 ```javascript
 let jerry = {
   pronouns: "he" | "him",
-  code: [Golang, Python, Typescript, C/C++, Java, Kotlin],
-  tools: [Kubernetes, Terraform, React, Fastify, Spring Boot],
+  code: [Golang, Python, Typescript, C/C++, Java],
   
-  energy: "chillin",
-  swag: Math.max()
+  energy: "vibin",
 }
 ```
 
